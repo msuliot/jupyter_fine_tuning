@@ -9,4 +9,4 @@ completed this walkthrough, you will have created a fine-tuned model that is cus
 with your data.
 
 ## YouTube Video Tutorial For this GitHub Repository
-[Open AI Fine Tuning](https://youtu.be/Q1VfJwLk3hg)
+[Jupyter - Open AI Fine Tuning](https://youtu.be/Q1VfJwLk3hg)
